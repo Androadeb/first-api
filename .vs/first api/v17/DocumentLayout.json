@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\20250223162711_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first api\\Migrations\\20250223162711_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\first api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\first api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\migrations\\20241103113533_category100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\migrations\\20241103113533_category100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\data\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\data\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\data\\appdpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\data\\appdpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\migrations\\appdpcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\migrations\\appdpcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\migrations\\20241025021451_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\migrations\\20241025021451_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\migrations\\20241103104230_category3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\migrations\\20241103104230_category3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\migrations\\20241031065147_update-category2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\migrations\\20241031065147_update-category2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|c:\\users\\andro\\onedrive\\desktop\\.net\\first api\\first api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B023B05-A6D5-4552-B710-990DF9633C46}|first api\\first api.csproj|solutionrelative:first api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250223162711_test.cs",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\20250223162711_test.cs",
+              "RelativeDocumentMoniker": "first api\\Migrations\\20250223162711_test.cs",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\20250223162711_test.cs",
+              "RelativeToolTip": "first api\\Migrations\\20250223162711_test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:27:12.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Dockerfile",
+              "RelativeDocumentMoniker": "first api\\Dockerfile",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Dockerfile",
+              "RelativeToolTip": "first api\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-23T16:05:55.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "first api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\appsettings.Development.json",
+              "RelativeToolTip": "first api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T16:01:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\appsettings.json",
+              "RelativeDocumentMoniker": "first api\\appsettings.json",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\appsettings.json",
+              "RelativeToolTip": "first api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T21:39:15.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDpContext.cs",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Data\\AppDpContext.cs",
+              "RelativeDocumentMoniker": "first api\\Data\\AppDpContext.cs",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Data\\AppDpContext.cs",
+              "RelativeToolTip": "first api\\Data\\AppDpContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:29:11.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Data\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "first api\\Data\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Data\\Model\\Category.cs",
+              "RelativeToolTip": "first api\\Data\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:05:49.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241103113533_category100.cs",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\20241103113533_category100.cs",
+              "RelativeDocumentMoniker": "first api\\Migrations\\20241103113533_category100.cs",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\20241103113533_category100.cs",
+              "RelativeToolTip": "first api\\Migrations\\20241103113533_category100.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:35:33.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "first api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "first api\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:33:06.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "first api.csproj",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\first api.csproj",
+              "RelativeDocumentMoniker": "first api\\first api.csproj",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\first api.csproj",
+              "RelativeToolTip": "first api\\first api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T21:32:55.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241025021451_Category.cs",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\20241025021451_Category.cs",
+              "RelativeDocumentMoniker": "first api\\Migrations\\20241025021451_Category.cs",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\20241025021451_Category.cs",
+              "RelativeToolTip": "first api\\Migrations\\20241025021451_Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:14:51.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "first api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\WeatherForecast.cs",
+              "RelativeToolTip": "first api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:00:01.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Program.cs",
+              "RelativeDocumentMoniker": "first api\\Program.cs",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Program.cs",
+              "RelativeToolTip": "first api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:01:26.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDpContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\AppDpContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "first api\\Migrations\\AppDpContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\AppDpContextModelSnapshot.cs",
+              "RelativeToolTip": "first api\\Migrations\\AppDpContextModelSnapshot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:57:10.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241031065147_update-category2.cs",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\20241031065147_update-category2.cs",
+              "RelativeDocumentMoniker": "first api\\Migrations\\20241031065147_update-category2.cs",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\20241031065147_update-category2.cs",
+              "RelativeToolTip": "first api\\Migrations\\20241031065147_update-category2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:51:47.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241103104230_category3.cs",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\20241103104230_category3.cs",
+              "RelativeDocumentMoniker": "first api\\Migrations\\20241103104230_category3.cs",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Migrations\\20241103104230_category3.cs",
+              "RelativeToolTip": "first api\\Migrations\\20241103104230_category3.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:42:31.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "first api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "first api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:00:07.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "first api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\andro\\OneDrive\\Desktop\\.net\\first api\\first api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "first api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T21:39:31.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
