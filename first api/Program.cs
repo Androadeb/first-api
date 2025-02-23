@@ -31,15 +31,14 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// ❌ **إزالة إعادة التوجيه لـ HTTPS**
-// (Render يوفر HTTPS تلقائيًا، لذا لا حاجة لإجبار التطبيق عليه)
+// ❌ إزالة `app.UseHttpsRedirection();` لأن Render يوفر HTTPS تلقائيًا
 
-// ✅ تفعيل CORS والسماح بالوصول إلى الـ API
+// ✅ تفعيل CORS
 app.UseCors("AllowAll");
 app.UseAuthorization();
 app.MapControllers();
 
-// ✅ **تحديد المنفذ من متغير البيئة (خاص بـ Render)**
+// ✅ **استخدام المنفذ الصحيح الذي تحدده Render**
 var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
 app.Urls.Add($"http://0.0.0.0:{port}");
 
