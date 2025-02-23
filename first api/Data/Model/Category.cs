@@ -8,7 +8,7 @@ namespace first_api.Data.Model
         public int Id { get; set; }
 
         [MaxLength(50)]
-        public string Name { get; set; }
+       public required string Name { get; set; }
         public string? Notes { get; set; }
     }
 }
