@@ -12,7 +12,7 @@ namespace first_api.Migrations
 {
     [DbContext(typeof(AppDpContext))]
     [Migration("20250223162711_test")]
-    partial class test
+    partial class TestClass
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
