@@ -1,9 +1,11 @@
+
 using first_api.Data;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// السماح لجميع المصادر باستخدام CORS
+// Add services to the container.
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll",
@@ -11,35 +13,26 @@ builder.Services.AddCors(options =>
                           .AllowAnyMethod()
                           .AllowAnyHeader());
 });
-
-// إعداد قاعدة البيانات باستخدام SQL Server
 builder.Services.AddDbContext<AppDpContext>(op =>
       op.UseSqlServer(builder.Configuration.GetConnectionString("MyConnection")));
-
 builder.Services.AddControllers().AddJsonOptions(configure => configure.Equals(true));
-
-// إعداد Swagger لتوثيق API
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// تشغيل Swagger في بيئة التطوير فقط
+// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
-// ❌ إزالة `app.UseHttpsRedirection();` لأن Render يوفر HTTPS تلقائيًا
-
-// ✅ تفعيل CORS
+app.UseHttpsRedirection();
 app.UseCors("AllowAll");
 app.UseAuthorization();
-app.MapControllers();
 
-// ✅ **استخدام المنفذ الصحيح الذي تحدده Render**
-var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
-app.Urls.Add($"http://0.0.0.0:{port}");
+app.MapControllers();
 
 app.Run();
